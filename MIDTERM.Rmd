@@ -16,6 +16,7 @@ library(plotly)
 library(rvest)
 library(XML)
 library(ggplot2)
+library(ggplot2)
 ```
 
 ```{r}
