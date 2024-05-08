@@ -3,6 +3,7 @@ library(plotly)
 library(rvest)
 library(XML)
 library(ggplot2)
+library(shiny)
 
 
 
